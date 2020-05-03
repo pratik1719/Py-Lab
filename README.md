@@ -1,1 +1,1 @@
-# Py-Lab
+# Py-Lab Prime generator
